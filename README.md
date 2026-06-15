@@ -1,5 +1,6 @@
 # Protocolo-UART
 Evidencia 2. Implementación del Protocolo UART en Verilog y Síntesis con TinyTapeout
+
 El protocolo UART facilita la transmisión de datos de manera asíncrona. Esta actividad, requirió el diseño de una máquina de estados que permita este tipo de comunicación, en el lenguaje de programación Verilog. 
 
 Para desarrollar la máquina de estados, se crearon 2 módulos:
