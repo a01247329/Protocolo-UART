@@ -12,5 +12,4 @@ Ademas se ajunta el archivo UART.gds, el cual se obtuvo despues de la comprobaci
 
 Finalmente, se adjunta un archivo pdf, con el reporte completo de la realizacion de esta actividad. 
 
-<img width="1096" height="1102" alt="Screenshot 2026-06-15 141716" src="https://github.com/user-attachments/assets/1b9f98d7-9e23-49d1-9ade-54e696f9d9fc" />
-
+<img width="1221" height="1223" alt="image" src="https://github.com/user-attachments/assets/7583daef-5faa-4920-8741-5099b22cc865" />
